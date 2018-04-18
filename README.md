@@ -1,0 +1,2 @@
+# Stock-Market-Assistant
+An Expert system is a software capable of making complex decisions which only an expert it a particular field can make. Those decisions are accurate and prefect by considering specific set of rules. This project also aims to do the same thing. This is an Expert system capable of assisting user in order to invest or buy from the stock market of a particular asset present. The whole project is prepared in MATLAB.
